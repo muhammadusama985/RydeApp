@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "633683238415",
+    "project_id": "letsryde-a234f",
+    "storage_bucket": "letsryde-a234f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633683238415:android:4b36503d86b946156c8d7a",
+        "android_client_info": {
+          "package_name": "com.example.lets_ryde"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633683238415-d8k9shp21d6dvumu6s3qja94adm1l4pe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lets_ryde",
+            "certificate_hash": "a9b6c6274614e235a72f7bfa292d74231ad4a133"
+          }
+        },
+        {
+          "client_id": "633683238415-50qsaccpnmv9ieup684oqciik7d8gu6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDybLBF2PKTMCLJwmsPFSNNonwVajw10kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633683238415-50qsaccpnmv9ieup684oqciik7d8gu6i.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "633683238415-bc0glmh8b0e180l2iptjeeg2deca6hbk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.letsRyde"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
